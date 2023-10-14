@@ -1,0 +1,23 @@
+.back {
+  background-color: black;
+  min-width: 100vh;
+  min-height: 100vh;
+}
+.text {
+  color: white;
+  font-size: xx-large;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+.straight-line-column {
+  white-space: nowrap; /* Prevent text from wrapping */
+}
+th,
+td {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  background-color: black;
+}
